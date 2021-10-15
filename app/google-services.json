@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062979804243",
+    "firebase_url": "https://projetonotas-e49d5-default-rtdb.firebaseio.com",
+    "project_id": "projetonotas-e49d5",
+    "storage_bucket": "projetonotas-e49d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062979804243:android:dd5aa019ecd1a53559faa6",
+        "android_client_info": {
+          "package_name": "com.example.projetonotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062979804243-5nfip5kjslr5p4eo2k536hqbjcj7vond.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLEMgECFW5fdAbTyDqaNzAt8imN8Zv2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062979804243-5nfip5kjslr5p4eo2k536hqbjcj7vond.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
